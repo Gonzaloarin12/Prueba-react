@@ -1,0 +1,80 @@
+
+[
+    {
+        "id": 1,
+        "nombre": "Auto",
+        "precio": 37247,
+        "img": "/src/img/auto.png",
+        "categoria": "terrestre",
+        "descripcion": "Sedan"
+    }, {
+        "id": 2,
+        "nombre": "Moto",
+        "precio": 37247,
+        "img": "/src/img/moto.png",
+        "categoria": "terrestre",
+        "descripcion": "moto deportiva"
+    }, {
+        "id": 3,
+        "nombre": "Camion",
+        "precio": 37247,
+        "img": "/src/img/camion.png",
+        "categoria": "terrestre",
+        "descripcion": "Camion de carga"
+    }, {
+        "id": 4,
+        "nombre": "Camioneta",
+        "precio": 37247,
+        "img": "/src/img/camioneta.png",
+        "categoria": "terrestre",
+        "descripcion": "camioneta de carga"
+    }, {
+        "id": 5,
+        "nombre": "Casa Rodante",
+        "precio": 37247,
+        "img": "/src/img/casarodante.png",
+        "categoria": "terrestre",
+        "descripcion": "100% equipada"
+    }, {
+        "id": 6,
+        "nombre": "Utv",
+        "precio": 37247,
+        "img": "/src/img/utv.png",
+        "categoria": "terrestre",
+        "descripcion": "Utv Deportivo"
+    }, {
+        "id": 7,
+        "nombre": "Avion",
+        "precio": 37247,
+        "img": "/src/img/avion.png",
+        "categoria": "aereo",
+        "descripcion": "Avion de pasajeros"
+    }, {
+        "id": 8,
+        "nombre": "Auto",
+        "precio": 37247,
+        "img": "/src/img/avioneta.png",
+        "categoria": "aereo",
+        "descripcion": "Avioneta de pasajeros"
+    }, {
+        "id": 9,
+        "nombre": "Helicoptero",
+        "precio": 37247,
+        "img": "/src/img/helicoptero.png",
+        "categoria": "aereo",
+        "descripcion": "Helicoptero de Pasajeros"
+    }, {
+        "id": 10,
+        "nombre": "Lancha",
+        "precio": 37247,
+        "img": "/src/img/lancha.png",
+        "categoria": "acuatico",
+        "descripcion": "Lancha mediana"
+    }, {
+        "id": 11,
+        "nombre": "Moto de Agua",
+        "precio": 37247,
+        "img": "/src/img/motodeagua.png",
+        "categoria": "acuatico",
+        "descripcion": "Moto de agua deportiva"
+    }]
